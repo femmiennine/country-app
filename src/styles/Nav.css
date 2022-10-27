@@ -1,0 +1,22 @@
+.nav__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.icons li {
+    font-size: 1.2rem;
+    font-weight: 700;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+.icons li:hover {
+    color: purple;
+}

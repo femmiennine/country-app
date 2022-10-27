@@ -1,0 +1,16 @@
+/* .table__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+} */
+
+table {
+    border-collapse: collapse;
+}
+  
+th {
+    padding: 0.5rem;
+    text-align: left;
+    padding-right: 100px;
+}
